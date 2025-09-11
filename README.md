@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav K</h1>
-<h3 align="center">IT student | Aspiring Full Stack Developer || Not just a coder, but an innovator</h3>
+<h3 align="center">IT student | Aspiring Full Stack Developer | Not just a coder, but an innovator</h3>
 
 - 🔭 I’m currently working on [WebDev-18-Projects](https://github.com/iem-pranav/WebDev-18-Projects)
 
