@@ -1,4 +1,4 @@
-# I am Pranav 👨🏻‍💻:
+# Hi, I am Pranav 👨🏻‍💻
 <br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Not+Just+A+Coder%2C+But+An+Innovator)](https://git.io/typing-svg)<br><br>About Me: 🧭 Tech Explorer<br>🏫 I’m a student at PICT, Pune, Information Technology '28<br>🌱 I’m currently upscaling in Full-Stack Web Development<br>💬 Ask me about C++, C, and Web Development<br>😌 I also have basic knowledge of Figma and UI prototypes<br>🔭 I know Java , Python programming fundamentals<br>😗 I am familiar with Supabase and Express.js<br>🥸 I have also started learning Data Structures & Algorithms (DSA)
 
 
